@@ -11,7 +11,7 @@ while True:
     if x == 'h':
       high = guess
     elif x == 'l':
-      low = guess
+        low = guess
     elif x == 'c':
       break
     else:
