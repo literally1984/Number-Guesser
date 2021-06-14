@@ -1,2 +1,2 @@
 # Number-Guesser
-Enter an integer between 0 and 100 (including 0 and 100), and this simple but neat program will guess it!
+This simple but neat program will guess your secret number from between two of your own numbers.
